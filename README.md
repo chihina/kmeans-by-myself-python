@@ -16,13 +16,16 @@ Centoirds are assigned from datasets.
 ## Example (kmeans and kmeans++)
 In this section, I show clustering example with iris datasets.
 
+### Ground-trurh of iris dataset  
+![iris image](https://https://github.com/chihina/kmeans-by-myself-python/blob/master/iris_example.png)  
+
 ### kmeans example
 Show result of each iteration.  
 In this case, clustering fail.  
-![kmeans image](https://github.com/chihina/Scratch_autoencoder/blob/master/autoencoder_0402_gpu_ver6/ori_image_validation_3.png)  
+![kmeans image](https://https://github.com/chihina/kmeans-by-myself-python/blob/master/kmeans_example.png)  
 
 
 ### kmeans++ example
 Show result of each iteration.  
 In this case, clustering succeed.  
-![kmeans++ image](https://github.com/chihina/Scratch_autoencoder/blob/master/autoencoder_0402_gpu_ver6/ori_image_validation_3.png)  
+![kmeans++ image](https://github.com/chihina/kmeans-by-myself-python/blob/master/kmeans%2B%2B_example.png)  
