@@ -18,11 +18,11 @@ In this section, I show clustering example with iris datasets.
 
 ### kmeans example
 Show result of each iteration.  
-In this case, clustering fail.
+In this case, clustering fail.  
 ![kmeans image](https://github.com/chihina/Scratch_autoencoder/blob/master/autoencoder_0402_gpu_ver6/ori_image_validation_3.png)  
 
 
 ### kmeans++ example
 Show result of each iteration.  
-In this case, clustering success.
+In this case, clustering success.  
 ![kmeans++ image](https://github.com/chihina/Scratch_autoencoder/blob/master/autoencoder_0402_gpu_ver6/ori_image_validation_3.png)  
