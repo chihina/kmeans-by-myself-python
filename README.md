@@ -24,5 +24,5 @@ In this case, clustering fail.
 
 ### kmeans++ example
 Show result of each iteration.  
-In this case, clustering success.  
+In this case, clustering succeed.  
 ![kmeans++ image](https://github.com/chihina/Scratch_autoencoder/blob/master/autoencoder_0402_gpu_ver6/ori_image_validation_3.png)  
